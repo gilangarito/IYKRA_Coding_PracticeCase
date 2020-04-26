@@ -1,2 +1,2 @@
-# iykra_DataScience_PracticeCase_Coding
-This is my repository about coding practice case on IYKRA Data Fellowship Program 2020
+# iykra_DataScience_PracticeCase
+This is my repository about practice case on IYKRA Data Fellowship Program 2020
